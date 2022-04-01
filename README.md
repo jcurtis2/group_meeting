@@ -8,4 +8,4 @@ This is a repository to practice using git features.
 Happy April Fool!
 
 ## Todo for Anomitra
-ATMS Meeting
+ATMS Meeting on April Fools Day
